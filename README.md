@@ -1,7 +1,19 @@
 # WP-Custom-Taxonomy-for-PostType
-Custom Taxonomy for PostType
 
-Creación de PostType
-Listar Taxonomia de PostTipes
+##Contenido
+	
+- Creación de post-type (noticia)
+- Creación de taxonomia (categoria-noticia)
+- Plantilla para el post del tipo noticia (single-noticia.php)
+- Plantilla para mostar todos los posts de una categoria (taxonomy-categoria-noticia)
 
-Crear Template de PostType x taxonomia
+##Caracteristicas
+
+- wordpress-4.9.9-es_ES
+- html5blank
+
+##Instalacion 
+- Cambiar la ruta del backup de la base de datos y cargarlo
+- Cambiar el wp-config con los accesos de la bd
+
+
