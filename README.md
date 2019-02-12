@@ -6,6 +6,7 @@
 - Creación de taxonomia (categoria-noticia)
 - Plantilla para el post del tipo noticia (single-noticia.php)
 - Plantilla para mostar todos los posts de una categoria (taxonomy-categoria-noticia)
+- Paginacion en el template catergoria 
 
 ## Caracteristicas
 
